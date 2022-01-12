@@ -1,0 +1,13 @@
+2022/01/12-02:34:57.177 2955 Reusing MANIFEST /home/adam/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2022/01/12-02:37:01.559 29ee Level-0 table #5: started
+2022/01/12-02:37:01.599 29ee Level-0 table #5: 35369 bytes OK
+2022/01/12-02:37:01.645 29ee Delete type=0 #3
+2022/01/12-02:45:09.797 2923 Level-0 table #7: started
+2022/01/12-02:45:09.852 2923 Level-0 table #7: 12631 bytes OK
+2022/01/12-02:45:09.898 2923 Delete type=0 #4
+2022/01/12-02:55:09.313 29ee Level-0 table #9: started
+2022/01/12-02:55:09.372 29ee Level-0 table #9: 8651 bytes OK
+2022/01/12-02:55:09.418 29ee Delete type=0 #6
+2022/01/12-02:55:42.207 2923 Level-0 table #11: started
+2022/01/12-02:55:42.245 2923 Level-0 table #11: 8646 bytes OK
+2022/01/12-02:55:42.291 2923 Delete type=0 #8

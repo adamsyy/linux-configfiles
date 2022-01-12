@@ -1,0 +1,27 @@
+2022/01/12-03:01:21.466 35f8 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/01/12-03:01:21.466 35f8 Recovering log #7
+2022/01/12-03:01:21.467 35f8 Reusing old log /home/adam/.config/google-chrome/Default/Sync Data/LevelDB/000007.log 
+2022/01/12-03:04:26.707 361e Level-0 table #11: started
+2022/01/12-03:04:26.735 361e Level-0 table #11: 108559 bytes OK
+2022/01/12-03:04:26.780 361e Delete type=0 #7
+2022/01/12-03:16:35.429 3ad2 Level-0 table #13: started
+2022/01/12-03:16:35.477 3ad2 Level-0 table #13: 123331 bytes OK
+2022/01/12-03:16:35.523 3ad2 Delete type=0 #10
+2022/01/12-03:26:39.124 4429 Level-0 table #15: started
+2022/01/12-03:26:39.161 4429 Level-0 table #15: 171758 bytes OK
+2022/01/12-03:26:39.206 4429 Delete type=0 #12
+2022/01/12-03:39:41.367 509a Level-0 table #17: started
+2022/01/12-03:39:41.399 509a Level-0 table #17: 123561 bytes OK
+2022/01/12-03:39:41.446 509a Delete type=0 #14
+2022/01/12-03:39:41.446 509a Compacting 4@0 + 1@1 files
+2022/01/12-03:39:41.470 509a Generated table #18@0: 52 keys, 7689 bytes
+2022/01/12-03:39:41.470 509a Compacted 4@0 + 1@1 files => 7689 bytes
+2022/01/12-03:39:41.516 509a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/12-03:39:41.516 509a Delete type=2 #8
+2022/01/12-03:39:41.516 509a Delete type=2 #11
+2022/01/12-03:39:41.516 509a Delete type=2 #13
+2022/01/12-03:39:41.516 509a Delete type=2 #15
+2022/01/12-03:39:41.516 509a Delete type=2 #17
+2022/01/12-03:58:12.686 5926 Level-0 table #20: started
+2022/01/12-03:58:12.805 5926 Level-0 table #20: 119086 bytes OK
+2022/01/12-03:58:12.851 5926 Delete type=0 #16

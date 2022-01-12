@@ -1,0 +1,8 @@
+[2022-01-12 00:04:06.520] [exthost] [info] Extension host with pid 3725 started
+[2022-01-12 00:04:06.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 00:04:06.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 00:04:06.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-12 00:04:06.691] [exthost] [info] Eager extensions activated
+[2022-01-12 00:04:06.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 00:33:28.394] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 00:33:29.408] [exthost] [info] Extension host with pid 3725 exiting with code 0

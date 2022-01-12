@@ -1,0 +1,9 @@
+[Default Applications]
+text/plain=code-oss.desktop
+text/html=brave-browser.desktop
+x-scheme-handler/notion=notion-app.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-ICALF1.desktop
+
+[Added Associations]
+text/plain=code-oss.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-ICALF1.desktop;

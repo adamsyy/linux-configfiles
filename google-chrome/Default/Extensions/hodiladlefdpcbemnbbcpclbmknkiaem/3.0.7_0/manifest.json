@@ -1,0 +1,28 @@
+{
+   "background": {
+      "scripts": [ "update.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup/popup.html",
+      "default_title": "Visual Effects"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content/injectScripts.js" ],
+      "matches": [ "*://meet.google.com/**-**-**" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Virtual Green Screens, Blur, Pixelate, Inverse, Contrast and More!",
+   "icons": {
+      "128": "icons/128.png",
+      "32": "icons/32.png",
+      "64": "icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqbUkn+NvhAbZCQSWgVHhVK/vekmptWXoqPJQ/KpKvbbGEa8nMCZxZiPP+SwHvlEVbag42nRmZneys4n5KkdCzpXh399QcsbJL+ZEiktCqTNM+iGv+fyDoxPK0dH81LVQr9saWLzkISahlQlmcUo3A5X8ObvIcsXY4IdfDIM/F4mMHA4CUv3X59OZ/AlhsXXwPZy1U6YLVcMJ3CdHVqAraZ2nY+5zK2gmj6w5htcI3nuZrN9gxn/+POEjPvUpUR1HALM8T9AT2Zs1pJAKpgCnTTv9E59XaNt0sKc6S8UbieaZmjaiO5/X5sTZ9pmv0zKM/aecoRS6otT1ZxlKOiI9dQIDAQAB",
+   "manifest_version": 2,
+   "name": "Visual Effects for Google Meet",
+   "permissions": [ "*://meet.google.com/**-**-**" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.7",
+   "web_accessible_resources": [ "dist/*" ]
+}

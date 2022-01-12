@@ -1,0 +1,24 @@
+2022/01/12-04:09:49.195 607c Reusing MANIFEST /home/adam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/12-04:09:49.195 607c Recovering log #13
+2022/01/12-04:09:49.197 607c Reusing old log /home/adam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000013.log 
+2022/01/12-04:14:53.802 607b Level-0 table #18: started
+2022/01/12-04:14:53.851 607b Level-0 table #18: 947060 bytes OK
+2022/01/12-04:14:54.011 607b Delete type=0 #13
+2022/01/12-04:16:01.655 607b Compacting 1@1 + 1@2 files
+2022/01/12-04:16:01.688 607b Generated table #19@1: 551 keys, 67635 bytes
+2022/01/12-04:16:01.688 607b Compacted 1@1 + 1@2 files => 67635 bytes
+2022/01/12-04:16:01.756 607b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/12-04:16:01.756 607b Delete type=2 #15
+2022/01/12-04:16:01.757 607b Delete type=2 #18
+2022/01/12-21:07:06.733 62c4 Level-0 table #21: started
+2022/01/12-21:07:06.757 62c4 Level-0 table #21: 464777 bytes OK
+2022/01/12-21:07:06.802 62c4 Delete type=0 #17
+2022/01/12-21:07:06.803 62c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/12-21:07:06.803 62c4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0c\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x033{\xd6\x02\xaa\xe4wB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 28909 : 0
+2022/01/12-21:07:06.803 62c4 Compacting 1@1 + 1@2 files
+2022/01/12-21:07:06.825 62c4 Generated table #22@1: 538 keys, 55529 bytes
+2022/01/12-21:07:06.825 62c4 Compacted 1@1 + 1@2 files => 55529 bytes
+2022/01/12-21:07:06.871 62c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/12-21:07:06.871 62c4 Delete type=2 #19
+2022/01/12-21:07:06.871 62c4 Delete type=2 #21
+2022/01/12-21:07:06.871 62c4 Manual compaction at level-1 from '\x00\x0c\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x033{\xd6\x02\xaa\xe4wB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 28909 : 0 .. (end); will stop at (end)

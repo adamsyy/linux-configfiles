@@ -1,0 +1,24 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1061726368000164193382600000047780005
+clientId2=1061726368000164191655400000014170051
+clientId3=1061726368000164193382700000047780007
+count=3
+discardCommand2[$e]=rm,-f,$HOME/.cache/sessions/Thunar-1061726368000164191655400000014170051
+program1=/usr/lib/DiscoverNotifier
+program2=Thunar
+program3=pulseaudio
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1061726368000164193382600000047780005_1641933882_369184
+restartCommand2=Thunar,--sm-client-id,1061726368000164191655400000014170051,--daemon
+restartCommand3=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=adam
+userId2=adam
+userId3=adam

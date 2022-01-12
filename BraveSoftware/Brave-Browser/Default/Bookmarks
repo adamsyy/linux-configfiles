@@ -1,0 +1,54 @@
+{
+   "checksum": "14d4121a2df53daa6fa50fd225fa3ee4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13286403093096569",
+            "guid": "ae23b620-d946-4ad5-9361-082340cb5c34",
+            "id": "5",
+            "name": "LeetCode",
+            "type": "url",
+            "url": "https://leetcode.com/"
+         }, {
+            "date_added": "13286403125361709",
+            "guid": "5a543d64-7fd1-4cb4-a6e3-310056edd665",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13286403147554835",
+            "guid": "244f01cc-d58d-4df7-80c9-c3419ed8176b",
+            "id": "8",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         } ],
+         "date_added": "13286403084837610",
+         "date_modified": "13286403147554835",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13286403084837612",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13286403084837614",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

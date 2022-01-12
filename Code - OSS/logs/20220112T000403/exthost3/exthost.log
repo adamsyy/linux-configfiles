@@ -1,0 +1,13 @@
+[2022-01-12 00:07:46.456] [exthost] [info] Extension host with pid 3971 started
+[2022-01-12 00:07:46.456] [exthost] [info] Skipping acquiring lock for /home/adam/.config/Code - OSS/User/workspaceStorage/ec5fd9f8b446d3df61f7802c029382df.
+[2022-01-12 00:07:46.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 00:07:46.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 00:07:46.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-12 00:07:46.577] [exthost] [info] Eager extensions activated
+[2022-01-12 00:07:46.578] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 00:07:56.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-12 00:07:56.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-12 00:07:56.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-12 00:07:56.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-12 00:08:00.290] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 00:08:01.311] [exthost] [info] Extension host with pid 3971 exiting with code 0

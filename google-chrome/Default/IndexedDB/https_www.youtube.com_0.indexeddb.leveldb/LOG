@@ -1,0 +1,21 @@
+2022/01/12-21:09:19.054 651f Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/12-21:09:19.054 651f Recovering log #6
+2022/01/12-21:09:19.055 651f Reusing old log /home/adam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000006.log 
+2022/01/12-21:09:19.488 651f Compacting 1@1 + 1@2 files
+2022/01/12-21:09:19.509 651f Generated table #9@1: 557 keys, 42867 bytes
+2022/01/12-21:09:19.509 651f Compacted 1@1 + 1@2 files => 42867 bytes
+2022/01/12-21:09:19.554 651f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/12-21:09:19.554 651f Delete type=2 #5
+2022/01/12-21:09:19.554 651f Delete type=2 #7
+2022/01/12-21:37:19.236 6bea Level-0 table #11: started
+2022/01/12-21:37:19.271 6bea Level-0 table #11: 235174 bytes OK
+2022/01/12-21:37:19.317 6bea Delete type=0 #6
+2022/01/12-21:37:19.319 6bea Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/12-21:37:19.319 6bea Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 11391 : 1
+2022/01/12-21:37:19.319 6bea Compacting 1@1 + 1@2 files
+2022/01/12-21:37:19.340 6bea Generated table #12@1: 446 keys, 29625 bytes
+2022/01/12-21:37:19.340 6bea Compacted 1@1 + 1@2 files => 29625 bytes
+2022/01/12-21:37:19.385 6bea compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/12-21:37:19.386 6bea Delete type=2 #9
+2022/01/12-21:37:19.386 6bea Delete type=2 #11
+2022/01/12-21:37:19.386 6bea Manual compaction at level-1 from '\x00\x09\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 11391 : 1 .. (end); will stop at (end)

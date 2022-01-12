@@ -1,0 +1,272 @@
+[2022-01-12 02:34:56.708] [info] Checking for update
+[2022-01-12 02:34:56.742] [info] Error reading /home/adam/.config/notion-app/cookies.json {
+  constructor: 'Error',
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '/home/adam/.config/notion-app/cookies.json',
+  stack: "Error: /home/adam/.config/notion-app/cookies.json: ENOENT: no such file or directory, open '/home/adam/.config/notion-app/cookies.json'\n" +
+    '    at Object.openSync (fs.js:466:3)\n' +
+    '    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1812)\n' +
+    '    at Object.readFileSync (fs.js:368:35)\n' +
+    '    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8592)\n' +
+    '    at Object.readFileSync (/opt/Notion/resources/app.asar/node_modules/jsonfile/index.js:61:22)\n' +
+    '    at JsonStore.loadSync (/opt/Notion/resources/app.asar/main/JsonStore.js:38:44)\n' +
+    '    at new JsonStore (/opt/Notion/resources/app.asar/main/JsonStore.js:15:14)\n' +
+    '    at Object.<anonymous> (/opt/Notion/resources/app.asar/main/schemeHandler.js:37:25)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1152:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1173:10)'
+}
+[2022-01-12 02:34:57.218] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'latestVersionPath',
+  data: {
+    message: 'latestVersion.json path /home/adam/.config/notion-app/notionAssetCache-v2/latestVersion.json'
+  }
+}
+[2022-01-12 02:34:57.220] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'
+[2022-01-12 02:34:57.220] [info] {
+  level: 'info',
+  from: 'autoUpdater',
+  type: 'unsupportedLinuxApp',
+  error: {
+    name: 'Error',
+    message: "ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'",
+    stack: "Error: ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'"
+  }
+}
+[2022-01-12 02:34:57.222] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'errorReadingPath',
+  error: {
+    name: 'Error',
+    message: "ENOENT: no such file or directory, open '/home/adam/.config/notion-app/notionAssetCache-v2/latestVersion.json'",
+    stack: "Error: ENOENT: no such file or directory, open '/home/adam/.config/notion-app/notionAssetCache-v2/latestVersion.json'"
+  },
+  data: {
+    message: 'Error reading /home/adam/.config/notion-app/notionAssetCache-v2/latestVersion.json'
+  }
+}
+[2022-01-12 02:34:57.222] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'currentVersionLoaded',
+  data: {}
+}
+[2022-01-12 02:34:57.223] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'syncVersionEmptyLatestVersion'
+}
+[2022-01-12 02:34:57.223] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'currentSyncedAssetsJson',
+  data: {}
+}
+[2022-01-12 02:34:58.550] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'appUpdateAvailable',
+  data: { version: '23.10.16.21' }
+}
+[2022-01-12 02:35:21.595] [info] { level: 'info', from: 'AssetCache', type: 'checkingForAppUpdate2' }
+[2022-01-12 02:35:21.595] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'appUpdateDownloadComplete',
+  data: { version: '23.10.16.21' }
+}
+[2022-01-12 02:35:21.596] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'installingAppUpdate',
+  data: { version: '23.10.16.21' }
+}
+[2022-01-12 02:35:21.597] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'checkForUpdatesNow',
+  data: { duration: 24913 }
+}
+[2022-01-12 02:45:21.607] [info] { level: 'info', from: 'AssetCache', type: 'checkingForAppUpdate' }
+[2022-01-12 02:45:22.686] [info] { level: 'info', from: 'AssetCache', type: 'noAppUpdateAvailable2' }
+[2022-01-12 02:55:22.691] [info] { level: 'info', from: 'AssetCache', type: 'checkingForAppUpdate' }
+[2022-01-12 02:55:23.706] [info] { level: 'info', from: 'AssetCache', type: 'noAppUpdateAvailable2' }
+[2022-01-12 03:05:23.710] [info] { level: 'info', from: 'AssetCache', type: 'checkingForAppUpdate' }
+[2022-01-12 03:05:25.380] [info] { level: 'info', from: 'AssetCache', type: 'noAppUpdateAvailable2' }
+[2022-01-12 03:11:50.041] [info] Quitting...
+[2022-01-12 03:11:50.042] [info] Killing child process
+[2022-01-12 21:40:36.664] [info] Checking for update
+[2022-01-12 21:40:37.230] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'latestVersionPath',
+  data: {
+    message: 'latestVersion.json path /home/adam/.config/notion-app/notionAssetCache-v2/latestVersion.json'
+  }
+}
+[2022-01-12 21:40:37.232] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'
+[2022-01-12 21:40:37.233] [info] {
+  level: 'info',
+  from: 'autoUpdater',
+  type: 'unsupportedLinuxApp',
+  error: {
+    name: 'Error',
+    message: "ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'",
+    stack: "Error: ENOENT: no such file or directory, open '/opt/Notion/resources/app-update.yml'"
+  }
+}
+[2022-01-12 21:40:37.242] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'currentVersionLoaded',
+  data: { version: '23.10.16.21', hash: '5e0c531253cfe9de3fdd74ce3a1a26aa' }
+}
+[2022-01-12 21:40:37.242] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'syncVersions',
+  data: {
+    message: 'Sync versions: assets.json path /home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets.json headers.json path /home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/headers.json'
+  }
+}
+[2022-01-12 21:40:37.250] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'currentSyncedAssetsJson',
+  data: { version: '23.10.16.21' }
+}
+[2022-01-12 21:40:37.755] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'syncVersionSameSkippingSync'
+}
+[2022-01-12 21:40:37.758] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest2',
+  data: {
+    message: 'Performing file request: /, abs path /home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/index-en-US-8bc669ba3e0dee0305e5.html'
+  }
+}
+[2022-01-12 21:40:37.848] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/888-666cd1c98098073c1173.js',
+    url: '/888-666cd1c98098073c1173.js'
+  }
+}
+[2022-01-12 21:40:37.850] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/app-0cf5c4ee4311213d99ae.js',
+    url: '/app-0cf5c4ee4311213d99ae.js'
+  }
+}
+[2022-01-12 21:40:37.852] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/app-21eb0c05ca983c393d67.css',
+    url: '/app-21eb0c05ca983c393d67.css'
+  }
+}
+[2022-01-12 21:40:37.854] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/print.b31f28aa.css',
+    url: '/print.b31f28aa.css'
+  }
+}
+[2022-01-12 21:40:38.656] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/markdown-linkify-it-de6de0a7cf56f508e657.js',
+    url: '/markdown-linkify-it-de6de0a7cf56f508e657.js'
+  }
+}
+[2022-01-12 21:40:38.845] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/primus-11bd7655d61c6a4f81ab.js',
+    url: '/primus-11bd7655d61c6a4f81ab.js'
+  }
+}
+[2022-01-12 21:40:39.993] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'appUpdateAvailable',
+  data: { version: '23.10.16.22' }
+}
+[2022-01-12 21:40:40.428] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/818-09f97fc18fa2025cf541.js',
+    url: '/818-09f97fc18fa2025cf541.js'
+  }
+}
+[2022-01-12 21:40:40.429] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/postRender-95ff6da38f213b1fef15.js',
+    url: '/postRender-95ff6da38f213b1fef15.js'
+  }
+}
+[2022-01-12 21:40:40.630] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/analytics-amplitude-981617b84d3bec606641.js',
+    url: '/analytics-amplitude-981617b84d3bec606641.js'
+  }
+}
+[2022-01-12 21:40:40.632] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/analytics-segment-097faa74dc656f8ec2a8.js',
+    url: '/analytics-segment-097faa74dc656f8ec2a8.js'
+  }
+}
+[2022-01-12 21:40:40.935] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'performingFileRequest',
+  data: {
+    absolutePath: '/home/adam/.config/notion-app/notionAssetCache-v2/23.10.16.21/assets/ajs-destination-6dd326b5dd0e028410b5.js',
+    url: '/ajs-destination-6dd326b5dd0e028410b5.js'
+  }
+}
+[2022-01-12 21:40:43.478] [info] { level: 'info', from: 'AssetCache', type: 'checkingForAppUpdate2' }
+[2022-01-12 21:40:43.478] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'appUpdateDownloadComplete',
+  data: { version: '23.10.16.22' }
+}
+[2022-01-12 21:40:43.479] [info] {
+  level: 'info',
+  from: 'AssetCache',
+  type: 'installingAppUpdate',
+  data: { version: '23.10.16.22' }
+}

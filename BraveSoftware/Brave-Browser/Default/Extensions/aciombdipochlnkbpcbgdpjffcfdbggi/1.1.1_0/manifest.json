@@ -1,0 +1,30 @@
+{
+   "author": "Qasim Wani",
+   "background": {
+      "persistent": false,
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "assets/thumbnail.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/leetcode.js", "scripts/authorize.js", "scripts/gfg.js" ],
+      "matches": [ "https://leetcode.com/*", "https://github.com/*", "https://practice.geeksforgeeks.org/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' https://code.jquery.com/jquery-3.3.1.min.js https://github.com/login/oauth/authorize https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js; object-src 'self'",
+   "description": "Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub",
+   "homepage_url": "https://github.com/QasimWani/LeetHub",
+   "icons": {
+      "128": "assets/thumbnail.png",
+      "16": "assets/thumbnail.png",
+      "48": "assets/thumbnail.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApcnrQc81R5/JT2uxk15z515dBrtNc2dBADX5Myrt1Bx+3ok9EbKEhDWaDbpxtmM+R60lzK7p0r80aUIm2xIjekgfzPuPQHDJy3o1A4jD3EftT5iFoEv+NXWwzScv1dacPWjJrRo10YOFdr7vGtH1ibhRTJgtMCJtA3+yXrz0zGevmF756tnPYjBUiK4xEvVqeKw0wAmBPsAUA2FjJGpmbJY4uU783eGYgEz9UHr87qmaxjgHdN6T4Fo6WeIImxSUT9I8c/lpZWwdDgCtHpZmKZntLQm/k7UY+9mn1fYFvq7GUvTEqvtn75cMdjvOO9YYfp5CmionXEXnYteVXvRmeQIDAQAB",
+   "manifest_version": 2,
+   "name": "LeetHub",
+   "permissions": [ "https://github.com/*", "https://api.github.com/*", "https://leetcode.com/*", "https://practice.geeksforgeeks.org/*", "tabs", "unlimitedStorage", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.1"
+}

@@ -1,0 +1,45 @@
+2022/01/12-03:01:21.464 3 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/12-03:01:21.465 3 Recovering log #12
+2022/01/12-03:01:21.465 3 Reusing old log /home/adam/.config/google-chrome/Default/Local Storage/leveldb/000012.log 
+2022/01/12-03:06:03.940 3 Level-0 table #16: started
+2022/01/12-03:06:03.989 3 Level-0 table #16: 92272 bytes OK
+2022/01/12-03:06:04.036 3 Delete type=0 #12
+2022/01/12-03:07:49.234 3 Level-0 table #18: started
+2022/01/12-03:07:49.296 3 Level-0 table #18: 89907 bytes OK
+2022/01/12-03:07:49.351 3 Delete type=0 #15
+2022/01/12-03:07:49.352 3 Compacting 4@0 + 1@1 files
+2022/01/12-03:07:49.397 3 Generated table #19@0: 167 keys, 94333 bytes
+2022/01/12-03:07:49.397 3 Compacted 4@0 + 1@1 files => 94333 bytes
+2022/01/12-03:07:49.441 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/12-03:07:49.444 3 Delete type=2 #7
+2022/01/12-03:07:49.444 3 Delete type=2 #9
+2022/01/12-03:07:49.445 3 Delete type=2 #13
+2022/01/12-03:07:49.445 3 Delete type=2 #16
+2022/01/12-03:07:49.445 3 Delete type=2 #18
+2022/01/12-03:08:04.912 7 Level-0 table #21: started
+2022/01/12-03:08:04.984 7 Level-0 table #21: 85649 bytes OK
+2022/01/12-03:08:05.030 7 Delete type=0 #17
+2022/01/12-03:17:05.698 7 Level-0 table #23: started
+2022/01/12-03:17:05.719 7 Level-0 table #23: 19032 bytes OK
+2022/01/12-03:17:05.765 7 Delete type=0 #20
+2022/01/12-03:27:27.747 13 Level-0 table #25: started
+2022/01/12-03:27:27.806 13 Level-0 table #25: 97918 bytes OK
+2022/01/12-03:27:27.853 13 Delete type=0 #22
+2022/01/12-03:42:12.537 16 Level-0 table #27: started
+2022/01/12-03:42:12.586 16 Level-0 table #27: 16935 bytes OK
+2022/01/12-03:42:12.633 16 Delete type=0 #24
+2022/01/12-03:42:12.634 16 Compacting 4@0 + 1@1 files
+2022/01/12-03:42:12.668 16 Generated table #28@0: 342 keys, 108627 bytes
+2022/01/12-03:42:12.669 16 Compacted 4@0 + 1@1 files => 108627 bytes
+2022/01/12-03:42:12.713 16 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/12-03:42:12.716 16 Delete type=2 #19
+2022/01/12-03:42:12.716 16 Delete type=2 #21
+2022/01/12-03:42:12.717 16 Delete type=2 #23
+2022/01/12-03:42:12.717 16 Delete type=2 #25
+2022/01/12-03:42:12.717 16 Delete type=2 #27
+2022/01/12-04:01:47.592 1f Level-0 table #30: started
+2022/01/12-04:01:47.650 1f Level-0 table #30: 16607 bytes OK
+2022/01/12-04:01:47.758 1f Delete type=0 #26
+2022/01/12-04:04:38.133 21 Level-0 table #32: started
+2022/01/12-04:04:38.188 21 Level-0 table #32: 22327 bytes OK
+2022/01/12-04:04:38.259 21 Delete type=0 #29

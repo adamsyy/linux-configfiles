@@ -1,0 +1,17 @@
+2022/01/12-21:40:37.120 6df1 Reusing MANIFEST /home/adam/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2022/01/12-21:40:37.120 6df1 Recovering log #10
+2022/01/12-21:40:37.120 6df1 Level-0 table #13: started
+2022/01/12-21:40:37.186 6df1 Level-0 table #13: 8877 bytes OK
+2022/01/12-21:40:37.232 6df1 Delete type=0 #10
+2022/01/12-21:41:37.860 6df1 Level-0 table #16: started
+2022/01/12-21:41:37.948 6df1 Level-0 table #16: 30992 bytes OK
+2022/01/12-21:41:37.994 6df1 Delete type=0 #14
+2022/01/12-21:41:37.995 6e24 Compacting 4@0 + 1@1 files
+2022/01/12-21:41:38.017 6e24 Generated table #17@0: 36 keys, 31230 bytes
+2022/01/12-21:41:38.017 6e24 Compacted 4@0 + 1@1 files => 31230 bytes
+2022/01/12-21:41:38.065 6e24 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/12-21:41:38.065 6e24 Delete type=2 #7
+2022/01/12-21:41:38.065 6e24 Delete type=2 #9
+2022/01/12-21:41:38.065 6e24 Delete type=2 #11
+2022/01/12-21:41:38.065 6e24 Delete type=2 #13
+2022/01/12-21:41:38.065 6e24 Delete type=2 #16

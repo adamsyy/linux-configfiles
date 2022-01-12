@@ -1,0 +1,76 @@
+{
+   "checksum": "2cc1588b7f1cffebab3bde2dc763f7f8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13286403510326538",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13286403510326540",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13179728552012355",
+            "guid": "3d625e5a-a408-4d41-8565-2dd52fbb137f",
+            "id": "5",
+            "name": "Watch Full Malayalam Movies Online free | Filmlinks4u.is",
+            "type": "url",
+            "url": "https://www1.filmlinks4u.is/category/malayalam"
+         }, {
+            "date_added": "13180452326714472",
+            "guid": "611f9f66-1134-4d68-8853-f8faa9abde15",
+            "id": "6",
+            "name": "Shopping flow_Cubezz.com: Professional Puzzle Store for Magic Cubes, Rubik's Cubes, Magic Cube Accessories & Other Puzzles",
+            "type": "url",
+            "url": "https://www.cubezz.com/flow.php?step=done"
+         }, {
+            "date_added": "13244821441574131",
+            "guid": "69b27c23-0e5b-44d3-95d6-6e9d08ca03aa",
+            "id": "7",
+            "name": "YouTube Downloader - Download Youtube videos for free!",
+            "type": "url",
+            "url": "https://en.savefrom.net/1-youtube-video-downloader-3/"
+         }, {
+            "date_added": "13253548177182327",
+            "guid": "febc86a2-ea9c-491f-bd2d-bc46847d5d3a",
+            "id": "8",
+            "name": "(2) CONSOLIO - UI UX Workshop - Tinkerhub NSSCE - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=cx8o7Wj9Dv4&feature=youtu.be"
+         }, {
+            "date_added": "13260427559546268",
+            "guid": "445bb4d1-9712-4978-995e-f68c080ff5f3",
+            "id": "9",
+            "name": "how to earn 70000 per month - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=how+to+earn+70000+per+month&oq=how+to+earn+7&aqs=chrome.3.69i57j0l4.44092j0j9&client=ms-android-oneplus-rvo3&sourceid=chrome-mobile&ie=UTF-8"
+         }, {
+            "date_added": "13261994066871697",
+            "guid": "3015af18-c4e8-4f3d-945b-617ab5e217a7",
+            "id": "10",
+            "name": "Malayalam Movie Online | Movierulz",
+            "type": "url",
+            "url": "https://4movierulz.ph/malayalam-movie-online/"
+         } ],
+         "date_added": "13286403510326541",
+         "date_modified": "13261994066871697",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkAuQGOVNUFACEAuQGOVNUFADIYChYIAhEX6lSeVNUFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJALkBjlTVBQAhALkBjlTVBQAyGAoWCAIRF+pUnlTVBQAYACEAAAAAAAAAACAASNOVpNfkL3CliZvV5C8SACABKhhMQ1ZqbWp0SzBKeU9LbHhLUVB3bTBnPT0SwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5ZVVBN2dIaWNqV20rNVJXeXYvRHBSVXMvZTY0ZUZZNXZHOFVXNkhGb3N4TTJQbWg0cXI2R3hTZGxQNjloN2U2L2VCTFpzZzAzMDJOcm93eTdxdkpCVzdRbTRDQT09GAAgACgAMNqr39m5qvUCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASrAIIBRKnAgoceUtxSElJM0NwV05vUzBaUFFBVm1wYklodkNRPRKmAVo6QURxdEFaeDlhN3hKTU1CT01DdmhLTlE0b3cxb1Q3c2ltUWxaamp4T0tzZFFnZUVuWUxRN1JKWlYrdHl2QWxINjRnL2VXQ1RkNFU3d0d6ajJ0V1pHdWRaVGVNNWYyQVBqN1ZzR082U2svcExuekNObWlHZkhzTjVtTFhzaUREMEt2MHQvNVYrNkdRc2h5MU0yMTRCM0NFYTE2OFh1V2lZY3BBPT0YACABKAEwpJaI3L+q9QI4zvDNotcsQM7wzaLXLEocZFo1QUFrd29VOGpGUHp4d0JzZGlKSEpEZFZNPVoeIhxuWXQ2ZUpjdk90TGsxbWRlM01CL2E0cFZuTWs9ZTO0R/QSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6YXdiajIySG5UT0lMaS9mSDJoK1RiVlhMSEQvYmdNdkdOeFk1Z05ua09PNWxiSjRYNlhHTEI2SmthdnJRcjB6OGVCUXM1NTlZeHJuVVV2QklzNnFKUFpmaGlvQT09GAAgACgAMNqr39m5qvUCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASrQIIChKoAgocZmEyYXpTa2pUOXQzcXBwR05QSW1nZ010cVMwPRKmAVo6QURxdEFaeDlhN3hKTU1CT01DdmhLTlE0b3cxb2RNYk9LNzBuNjBqQUVyUHU3bnNRYWkra2ZDb2ovejB1NWJOTWMvTjVrK0NUa01oSzFINGlFWFZ4Q3JFQjFoT0EwQnhBMjRDanc3L2pCMVkvNjhlTERQVE5XWWpqekdMNmlWd2tKdlQ4THJuSzl0WXBYbUcwNlFVb1RQOWQ3TDUySlcxMWNRPT0YACABKAEwpJaI3L+q9QI4x7fu3YkvQMe37t2JL0ocVTNETW9RenpxZ3dEbG56QXBNNVQwSG92a1M0PVofIh37NFoxUEE1T3Z3QnZGaVlVRUdxS09SdlNCSlVjPWW32OMAEq0CCAYSqAIKHDVaQXh0WjBlVzZIOUpxeWpNb2NRYU1vNHpDaz0SpgFaOkFEcXRBWng5YTd4Sk1NQk9NQ3ZoS05RNG93MW9UN3NpbVFsWmpqeE9Lc2RRZ2VFbllOU0c5M3ZPa0dDcllyQ0dGRDJvVkw4ZXFhbFh6Q1BlemI2U0F6NERqYW5vVXhPcmY0dnMxT1dpZkdDc2NmOFFHTnV1dEtMb04wZGlraTBkKzA4RlNGOS9tNUUrRC9TVFNGWUY1WmViQThWR1FJaGNNdz09GAAgASgBMKSWiNy/qvUCOL3K3fvZLEC9yt372SxKHENqanNFSFV3T0JSZmFjMEVnZFZhdVYzeTd6UT1aHyIdt0Z2Qzc3R2wvS1Uwa2l0a3VDbEdMeStVQi9uRT1l9jvTVBKtAggJEqgCChxnVzJHVWZIQjJhaUFmRk5hQ2kwVVhPZHFzUEU9EqYBWjpBRHF0QVp4OWE3eEpNTUJPTUN2aEtOUTRvdzFvZE1iT0s3MG42MGpBRXJQdTduc1FhbFRuNGZ1VXdFYzhPY2RvZ29UODhvejY1V3cvWitHcnRrdzdHSlNNUW5hWFdjUkFwNEdXQllYTGcxdlMwOEkvSzdhVXVBSEdKRWU4Qld1M2VEZ3NYSEVkMnkrSmk3dnNWQU03aFNMZHVKL2VIN1JWc0E9PRgAIAEoATCklojcv6r1Ajj9tPLygy9A/bTy8oMvShxKSDR0Q1UzVlJKSytGb20yRXNQaVhwekxad289Wh8iHfY1NEErWU42RDQ4R2FwVzY3YU9CeTN1Z1JEdUU9ZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5MjROWWpmaC9ZTks2aEQ3OFlWdzdmcGQ2RFI3Ni9lZnAwYk5NYkV6c2VJdkUveUNOTlJCWGVrTEdNUklKQ2tpeU85ZmRmGAAgACgAMNqr39m5qvUCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASrQIICBKoAgocRjkyR1pKVVFWT0dtcXVxMmR3eFRzWjB4S3dVPRKmAVo6QURxdEFaeDlhN3hKTU1CT01DdmhLTlE0b3cxb0FWdUg5cHNBMENSYksxZ2gzbnZ1MnZ6WVBvS3NzeDZmcytwOW1KYlp1R3U5UjQraWtNVlVjMnRUam9OWGhEb1h3T3pOTzc0eG1ULy84WkJuOXdjYVdha3VhM1FrU3hRdTFzNDgzWWR4TWc4YUhEU0JIWGlqQkZ2L1RaNDlRSzdwYTdzTzBBPT0YACABKAEwpJaI3L+q9QI4np7GououQJ6exqLqLkocUUlENjN0bEZSeTArZk5JN1NIRElpL3A2d2xzPVofIh3tcXVzT1B1Y3NuMEdMc01CUW9HREo2by9CVEk4PWU4/XbbEq0CCAcSqAIKHFI3dXBJazlvVnltL0FTYjNkcWNJSjQ4c2NFTT0SpgFaOkFEcXRBWng5YTd4Sk1NQk9NQ3ZoS05RNG93MW9tU3FGelJ3UGczdVlLRE1aUmY5L3RHbDNORFczclZoR0Q4azZJNi9TUWhJbXhuWUtLWkFkSEl0WXJiTmlyYm9ERFA2NnpVNVVGNHo4WGIrUXVqYm0vRC9UWFhGb3ZXOEZDRGQ5UGpvLzBBbXVuM3UxS0o2ZVc5Tyt5bUpzcTVhN1QraHlOUT09GAAgASgBMKSWiNy/qvUCOKbIqOHJLkCmyKjhyS5KHGtyZWVWVmRNSS9jaS9JeHhFK2lQaUNmUnlodz1aHyId23hNbTR2aE1kd3YrYUxrcytZMnFCM1JyTU54RT1lGkKZOiDvl6TX5C8wAQ==",
+   "version": 1
+}

@@ -1,0 +1,9 @@
+2022/01/12-03:34:12.643 4e62 Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/12-03:34:12.643 4e62 Recovering log #3
+2022/01/12-03:34:13.055 4e62 Reusing old log /home/adam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/01/12-03:41:09.622 4f9d Level-0 table #5: started
+2022/01/12-03:41:09.669 4f9d Level-0 table #5: 997131 bytes OK
+2022/01/12-03:41:09.716 4f9d Delete type=0 #3
+2022/01/12-04:01:31.608 5bc6 Level-0 table #7: started
+2022/01/12-04:01:31.663 5bc6 Level-0 table #7: 1047372 bytes OK
+2022/01/12-04:01:31.710 5bc6 Delete type=0 #4

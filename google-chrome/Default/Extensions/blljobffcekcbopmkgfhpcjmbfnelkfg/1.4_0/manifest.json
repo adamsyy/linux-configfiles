@@ -1,0 +1,21 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_title": "Mute Tab Extension"
+   },
+   "description": "Restores the 'Mute Tab' functionality of versions prior to Chrome 71.",
+   "icons": {
+      "128": "images/128_u_white.png",
+      "16": "images/16_u_white.png",
+      "48": "images/48_u_white.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIIJhDYxAwhHeP4sjav6FXZniHJTdjKOSgxLW9LwX64WgAiqoh/PPdLQBTBQ6uM1VR/eqBXug38gS5ndWOrLZNBpX87QhRpkWh2A5PuRvRDUdGXnkMzQQ1SqXZHFxMPbAEpIOZxBBkePrk9dqgyaV1F/Pknm7oFe76PJlUbisGicZdtKuZuR425DQ/ISrQks0lFBGoGnsSkjfnXxUE4OfWjC3JqfKlXHrstLH0CgtbT4QzELiSw4sxJmaw8lsyetVjDFAT/wekC+AZa91LBFE8lbbJhhx0uJPJDdj5tItJL9yLrKRZjJPBALqslSPTdpANA/U2w0ZydMF76lHCnufwIDAQAB",
+   "manifest_version": 2,
+   "name": "Mute Tab",
+   "permissions": [ "activeTab", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4"
+}
